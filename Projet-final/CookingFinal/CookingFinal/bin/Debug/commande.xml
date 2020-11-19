@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CommandeFournisseur xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <listeCommandeFournisseur>
+    <string>FastMeet</string>
+    <string>boeuf</string>
+    <string>10</string>
+    <string>GoGreen</string>
+    <string>carotte</string>
+    <string>9</string>
+    <string>GoGreen</string>
+    <string>oignon</string>
+    <string>20</string>
+  </listeCommandeFournisseur>
+</CommandeFournisseur>

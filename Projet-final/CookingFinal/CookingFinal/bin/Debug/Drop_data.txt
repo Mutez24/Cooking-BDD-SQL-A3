@@ -1,0 +1,7 @@
+drop table `cooking`.`utilise` ;
+drop table `cooking`.`produit`;
+drop table `cooking`.`fournisseur` ;
+drop table `cooking`.`contient` ;
+drop table `cooking`.`recette` ;
+drop table `cooking`.`commande` ;
+drop table `cooking`.`client`;
